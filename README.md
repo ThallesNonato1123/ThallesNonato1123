@@ -1,6 +1,7 @@
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ThallesNonato1123&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThallesNonato1123&show_icons=true&theme=dark&layout=compact" />
+  <img height="180em" src="https://raw.githubusercontent.com/ThallesNonato1123/ThallesNonato1123/main/assets/banco-master.png" />
 </div>
 
 <br>
